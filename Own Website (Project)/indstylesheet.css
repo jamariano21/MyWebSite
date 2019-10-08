@@ -1,0 +1,138 @@
+.header {
+	background-color: #FFFFFF;
+	color: #66FCF1;
+	text-align: center;
+	padding: 50px 500px;
+	font-family: berlin sans fb, arial, serif;
+	font-size: 24;
+	}
+.topnav {
+	overflow: hidden;
+	background-color: #FFFFFF;
+	position: fixed;
+	width: 100%;
+	}
+.topnav a {
+	float: right;
+	display: block;
+	color: #66FCF1;
+	text-align: center;
+	padding: 20px 70px;
+	text-decoration: none;
+	font-family: Imprint MT Shadow, georgia, serif;
+	font-size: 18;
+	}
+.topnav a:hover {
+	background-color: #66FCF1;
+	color: #0B0B10;
+	}
+.backgroundtxt {
+	padding-top: 100px;
+	padding-left: 75px;
+	text-align: center;
+	font-size: 30;
+	color: #FF00FF;
+	margin-left: 400px;
+	margin-right: 500px;
+	}
+.icon-bar {
+  width: 60px;
+  height: 310px;
+  background-color: #000000;
+	}
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 18px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 26px;
+  margin: 0px;
+	}
+.icon-bar a:hover {
+	background-color: #FEE2CA;
+	}
+.icon-bar2 {
+  width: 60px;
+  height: 310px;
+  background-color: #000000;
+	}
+.icon-bar2 a {
+  display: block;
+  text-align: center;
+  padding: 18px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 26px;
+  margin: 0px;
+	}
+.icon-bar2 a:hover {
+	background-color: #252D3A;
+	}
+.icon-bar3 {
+  width: 60px;
+  height: 310px;
+  background-color: #000000;
+	}
+.icon-bar3 a {
+  display: block;
+  text-align: center;
+  padding: 18px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 26px;
+  margin: 0px;
+	}
+.icon-bar3 a:hover {
+	background-color: #FEE2CA;
+	}
+div.polaroid {
+	width: 45%;
+	background-color: #FFFFFF;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 26px 0 rgba(0,0,0,0.19);
+	margin-bottom: 25px;
+	margin-right: 10px;
+	margin-left: 530px;
+	float: left;
+	right: 0;
+	top: 0;
+	
+	}
+div.polaroid img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+div.container {
+	text-align: center;
+	padding: 10px 20px;
+	}
+.portfoliotxt {
+	padding-top: 100px;
+	padding-left: 75px;
+	text-align: center;
+	font-size: 30;
+	color: #B2ECF8;
+	margin-left: 200px;
+	margin-right: 1000px;
+	}
+.aboutmetxt {
+	padding-top: 100px;
+	padding-left: 75px;
+	text-align: center;
+	font-size: 30;
+	color: #B2ECF8;
+	margin-left: 900px;
+	margin-right: 300px;
+	}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	padding-top: 0.25%;
+	background-color: white;
+	font-family: Comic Sans MS, georgia, serif;
+	}
+	
