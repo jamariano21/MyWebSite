@@ -81,4 +81,21 @@
 	}
 .icon-bar3 a:hover {
 	background-color: #FEE2CA;
-	}	
+	}
+.hometxt {
+	padding-left: 75px;
+	text-align: center;
+	font-size: 30;
+	color: #FF00FF;
+	margin-left: 400px;
+	}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	padding-top: 0.25%;
+	background-color: white;
+	font-family: Comic Sans MS, georgia, serif;
+	}
