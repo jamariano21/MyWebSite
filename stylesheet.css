@@ -17,7 +17,6 @@
 	background-color: #FFFFFF;
 	position: fixed;
 	width: 100%;
-	height: 40px;
 	}
 .topnav a {
 	float: right;
@@ -27,6 +26,7 @@
 	text-decoration: none;
 	font-family: Imprint MT Shadow, georgia, serif;
 	font-size: 18;
+	padding: 12px 16px;
 	}
 .topnav a:hover {
 	background-color: #66FCF1;
