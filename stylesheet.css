@@ -93,20 +93,39 @@
 	margin-right: 200px;
 	font-family: verdana;
 	}
+.portfoliotxt {
+	text-align: center;
+	font-size: 25;
+	color: #FF00FF;
+	margin-left: 200px;
+	margin-right: 200px;
+	font-family: verdana;
+	}
+.aboutmetxt {
+	text-align: center;
+	font-size: 30;
+	color: #FF00FF;
+	margin-left: 200px;
+	margin-right: 200px;
+	font-family: verdana;
+	
+	
+	}	
 div.polaroid {
 	width: 31.5%;
 	background-color: #FFFFFF;
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	box-shadow: 0 6px 20px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.2);
 	margin-bottom: 25px;
 	margin-right: 10px;
 	margin-left: 10px;
 	float: left;
-}
+	padding: 400px 500px;
+	}
 div.polaroid img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-}
+	}
 .footer {
 	position: fixed;
 	left: 0;
