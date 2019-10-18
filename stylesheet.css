@@ -108,9 +108,10 @@
 	margin-left: 200px;
 	margin-right: 200px;
 	font-family: Tahoma, Geneva, sans-serif;
-	
-	
 	}	
+.titlecolor {
+	color: #2B3856
+	}
 div.polaroid {
 	width: 31.5%;
 	background-color: #FFFFFF;
