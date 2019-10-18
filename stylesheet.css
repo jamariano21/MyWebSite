@@ -9,7 +9,7 @@
 	color: #000000;
 	text-align: center;
 	font-family: Arial Bold, arial, serif;
-	font-size: 24;
+	font-size: 24px;
 	position: center;
 	}
 .topnav {
@@ -17,7 +17,7 @@
 	background-color: #FFFFFF;
 	position: fixed;
 	width: 100%;
-	padding: 22;
+	height: 10px;
 	}
 .topnav a {
 	float: right;
@@ -36,7 +36,7 @@
   width: 60px;
   height: 310px;
   background-color: #000000;
-  padding-top: 10;
+  padding-top: 10px;
 	}
 .icon-bar a {
   display: block;
