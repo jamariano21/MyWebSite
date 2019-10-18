@@ -17,7 +17,7 @@
 	background-color: #FFFFFF;
 	position: fixed;
 	width: 100%;
-	padding: 15px;
+	padding: 22px;
 	}
 .topnav a {
 	float: right;
@@ -36,7 +36,7 @@
   width: 60px;
   height: 310px;
   background-color: #000000;
-  padding-top: 20px;
+  padding-top: 10px;
 	}
 .icon-bar a {
   display: block;
