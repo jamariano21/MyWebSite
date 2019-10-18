@@ -91,6 +91,7 @@
 	color: #FF00FF;
 	margin-left: 200px;
 	margin-right: 200px;
+	font-family: inherit;
 	}
 .footer {
 	position: fixed;
